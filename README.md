@@ -262,6 +262,7 @@
 - [EStimator](https://estimator.dev/) - Modern JavaScript savings calculator
 
 ## Converters
+- [Practical Web Tools](https://practicalwebtools.com/) - 1,400+ browser-based converters & calculators (PDF, image, audio, documents) - 100% client-side, no uploads.
 
 - [Babel](https://babeljs.io/repl) - Modern JavaScript Compiler
 - [Sassmeister](https://www.sassmeister.com/) - SCSS to CSS
